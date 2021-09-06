@@ -1,0 +1,55 @@
+[
+  {
+    "titre": "Les minions",
+    "directeur": "JF Rancourt",
+    "auteur": "Les auteurs",
+    "date": "11 janvier 2021",
+    "description": "film d'animation américain réalisé par Kyle Balda et Pierre Coffin, sorti en 2015. Il s'agit d'une préquelle de la saga Moi, moche et méchant. ",
+    "budget": "$74 000 000",
+    "totalUSA": "$336 045 770",
+    "totalMonde": "$1 159 444 662",
+    "vedette": [
+      {
+        "nom": "Sandra Bullock",
+        "personnage": "Scarlet Overkill (voix)",
+        "age": 57
+      },
+      { "nom": "Jon Hamm", "personnage": "Herb Overkill  (voix)", "age": 508 },
+      {
+        "nom": "Michael Keaton",
+        "personnage": "Walter Nelson (voix)",
+        "age": 70
+      }
+    ]
+  },
+  {
+    "titre": "Fight Club",
+    "directeur": "David Fincher",
+    "auteur": "Chuck Palahniuk(novel)Jim Uhls(screenplay),",
+    "date": "1999",
+    "description": "film américain de David Fincher, sorti en 1999 et adapté du roman éponyme de Chuck Palahniuk publié en 1996. Le narrateur est un homme qui, trouvant peu de satisfaction dans son activité professionnelle et sa vie en général, crée avec l'énigmatique Tyler Durden, personnage anticonformiste, un club de combats clandestins permettant à ses membres d'évacuer leur mal-être par la violence. ",
+    "budget": "$63 000 000",
+    "totalUSA": "$37 030 102",
+    "totalMonde": "$101 209 702",
+    "vedette": [
+      { "nom": "Brad Pitt", "personnage": "Tyler Durden", "age": 57 },
+      { "nom": "Edward Norton", "personnage": "The Narrator", "age": 52 },
+      { "nom": "Meat Loaf", "personnage": "Robert 'Bob' Paulsen", "age": 73 }
+    ]
+  },
+  {
+    "titre": "Mission Impossible",
+    "directeur": "Bryan de Palma",
+    "auteur": "David Koepp (story) and Steven Koepp (story) and Robert TOwne (screenplay) ",
+    "date": "1996",
+    "description": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.  ",
+    "budget": "$80 000 000",
+    "totalUSA": "$180 981 856",
+    "totalMonde": "$457 696 391",
+    "vedette": [
+      { "nom": "Tom Cruise", "personnage": "Ethan Hunt", "age": 59 },
+      { "nom": "John Voight", "personnage": "Jim Phelps", "age": 82 },
+      { "nom": "Emmanuelle Béard", "personnage": "Claire", "age": 58 }
+    ]
+  }
+]
