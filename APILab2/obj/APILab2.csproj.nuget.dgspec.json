@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JF\\OneDrive - Cégep de Lévis\\aut2021\\bd_securite\\bdSecur_lab2Json\\APILab2\\APILab2.csproj": {}
+    "C:\\Users\\JF\\OneDrive - Cégep de Lévis\\aut2021\\bd_securite\\bdSecur2\\APILab2\\APILab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JF\\OneDrive - Cégep de Lévis\\aut2021\\bd_securite\\bdSecur_lab2Json\\APILab2\\APILab2.csproj": {
+    "C:\\Users\\JF\\OneDrive - Cégep de Lévis\\aut2021\\bd_securite\\bdSecur2\\APILab2\\APILab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JF\\OneDrive - Cégep de Lévis\\aut2021\\bd_securite\\bdSecur_lab2Json\\APILab2\\APILab2.csproj",
+        "projectUniqueName": "C:\\Users\\JF\\OneDrive - Cégep de Lévis\\aut2021\\bd_securite\\bdSecur2\\APILab2\\APILab2.csproj",
         "projectName": "APILab2",
-        "projectPath": "C:\\Users\\JF\\OneDrive - Cégep de Lévis\\aut2021\\bd_securite\\bdSecur_lab2Json\\APILab2\\APILab2.csproj",
+        "projectPath": "C:\\Users\\JF\\OneDrive - Cégep de Lévis\\aut2021\\bd_securite\\bdSecur2\\APILab2\\APILab2.csproj",
         "packagesPath": "C:\\Users\\JF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JF\\OneDrive - Cégep de Lévis\\aut2021\\bd_securite\\bdSecur_lab2Json\\APILab2\\obj\\",
+        "outputPath": "C:\\Users\\JF\\OneDrive - Cégep de Lévis\\aut2021\\bd_securite\\bdSecur2\\APILab2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
