@@ -3,7 +3,8 @@ const body = document.querySelector('body'); // Reference vers la section qui va
 // Création d'une variable contenant l'adresse de notre site contenant le fichier JSON
 //let requestURL = 'https://raw.githubusercontent.com/samgagnon7/420-4C5-LL-BD-et-securite-des-applications-eleve/main/film_solution.json';
 //let requestURL = 'http://localhost:49880/weatherforecast';
-let requestURL = 'https://raw.githubusercontent.com/jflevis/bdSecur2/main/film.json?token=AVKBZFBULTNNTRAQHVU7TJTBGYIE2';
+let requestURL = 'https://raw.githubusercontent.com/jflevis/bdSecur2/main/film.json?token=AVKBZFD4JO7FAEAQGI72SRDBII5HE';
+
 //let requestURL = 'film.json';
 
 // Création d'une requête
